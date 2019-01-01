@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  * Created by mingdongtang@t.shu.edu.cn on 2018/11/10.
- * This class is used to get the performance (including mean Accuracy and mean logLoss) of Fuzzy KNN classifier under all legal 'k' (1-4465) on ClaMP data set.
+ * This class is used to get the performance (including mean Accuracy and mean logLoss) of Fuzzy KNN classifier under all legal 'k' (1-4466) on ClaMP data set.
  */
 public class ClaMPFuzzyKNNForAllK {
     public static void main(String[] args) throws IOException {
