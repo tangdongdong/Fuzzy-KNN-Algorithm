@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  * Created by mingdongtang@t.shu.edu.cn on 2018/11/13.
- * This Class implement classification and  prediction of Fuzzy KNN (k=67) algorithm on ClaMP dataset.
+ * This Class implement classification and  prediction of Fuzzy KNN (k=68) algorithm on ClaMP dataset.
  */
 public class ClaMPFuzzyKNN {
     public static void main(String[] args) {
